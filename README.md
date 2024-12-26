@@ -2,8 +2,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e3b16d13-5e78-4db3-b1dc-ed3501e16c26" height=400></img>
 </div>
-### **Table of Topics**
 
+### **Table of Topics**
 | **S.No** | **Topic**                                                                                 | **Description**                                              |  
 |----------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------|  
 | 1        | [SQL Injection](./SQL_Injection/README.md)                                               | Exploiting vulnerabilities in SQL queries.                   |  
