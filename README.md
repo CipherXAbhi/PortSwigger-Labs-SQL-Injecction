@@ -7,7 +7,7 @@
 | **S.No** | **Topic**                                                                                 | **Description**                                              |  
 |----------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------|  
 | 1        | [SQL Injection](./SQL_Injection/README.md)                                               | Exploiting vulnerabilities in SQL queries.                   |  
-| 2        | [Cross-Site Scripting (XSS)](./Cross_Site_Scripting/README.md)                           | Injecting malicious scripts into web pages.                  |  
+| 2        | [Cross-Site Scripting (XSS)](./Cross-Site_Scripting_(XSS)/README.md)                           | Injecting malicious scripts into web pages.                  |  
 | 3        | [CSRF (Cross-Site Request Forgery)](./CSRF/README.md)                                    | Forcing users to perform unwanted actions on their accounts. |  
 | 4        | [Clickjacking](./Clickjacking/README.md)                                                 | Hijacking clicks on a web page for malicious purposes.        |  
 | 5        | [Authentication](./Authentication/README.md)                                            | Exploiting authentication flaws to gain access.              |  
